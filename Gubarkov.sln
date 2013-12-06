@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crossroad", "Crossroad\Crossroad.csproj", "{707D196F-727D-420B-909C-FC0851F93076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MolecularDynamic", "MolecularDynamic\MolecularDynamic.csproj", "{7242D5F7-7481-40A3-9794-2BBDDB5709F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolygonGubarkov", "PolygonGubarkov\PolygonGubarkov.csproj", "{1E7744D9-FB70-4EBC-B6D9-7EE498CAD3DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refal", "Refal\Refal.csproj", "{2BDC6751-EACA-43E5-80AB-8247E1E0DA29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMatchProbability", "ConsoleMatchProbability\ConsoleMatchProbability.csproj", "{477B47C4-8975-4C39-9FFF-2BB4C948F002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1Gunarcov", "ConsoleApplication1Gunarcov\ConsoleApplication1Gunarcov.csproj", "{60630121-223D-427C-8A22-1424EAD9E331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{707D196F-727D-420B-909C-FC0851F93076}.Debug|x86.ActiveCfg = Debug|x86
+		{707D196F-727D-420B-909C-FC0851F93076}.Debug|x86.Build.0 = Debug|x86
+		{707D196F-727D-420B-909C-FC0851F93076}.Release|x86.ActiveCfg = Release|x86
+		{707D196F-727D-420B-909C-FC0851F93076}.Release|x86.Build.0 = Release|x86
+		{7242D5F7-7481-40A3-9794-2BBDDB5709F3}.Debug|x86.ActiveCfg = Debug|x86
+		{7242D5F7-7481-40A3-9794-2BBDDB5709F3}.Debug|x86.Build.0 = Debug|x86
+		{7242D5F7-7481-40A3-9794-2BBDDB5709F3}.Release|x86.ActiveCfg = Release|x86
+		{7242D5F7-7481-40A3-9794-2BBDDB5709F3}.Release|x86.Build.0 = Release|x86
+		{1E7744D9-FB70-4EBC-B6D9-7EE498CAD3DE}.Debug|x86.ActiveCfg = Debug|x86
+		{1E7744D9-FB70-4EBC-B6D9-7EE498CAD3DE}.Debug|x86.Build.0 = Debug|x86
+		{1E7744D9-FB70-4EBC-B6D9-7EE498CAD3DE}.Release|x86.ActiveCfg = Release|x86
+		{1E7744D9-FB70-4EBC-B6D9-7EE498CAD3DE}.Release|x86.Build.0 = Release|x86
+		{2BDC6751-EACA-43E5-80AB-8247E1E0DA29}.Debug|x86.ActiveCfg = Debug|x86
+		{2BDC6751-EACA-43E5-80AB-8247E1E0DA29}.Debug|x86.Build.0 = Debug|x86
+		{2BDC6751-EACA-43E5-80AB-8247E1E0DA29}.Release|x86.ActiveCfg = Release|x86
+		{2BDC6751-EACA-43E5-80AB-8247E1E0DA29}.Release|x86.Build.0 = Release|x86
+		{477B47C4-8975-4C39-9FFF-2BB4C948F002}.Debug|x86.ActiveCfg = Debug|x86
+		{477B47C4-8975-4C39-9FFF-2BB4C948F002}.Debug|x86.Build.0 = Debug|x86
+		{477B47C4-8975-4C39-9FFF-2BB4C948F002}.Release|x86.ActiveCfg = Release|x86
+		{477B47C4-8975-4C39-9FFF-2BB4C948F002}.Release|x86.Build.0 = Release|x86
+		{60630121-223D-427C-8A22-1424EAD9E331}.Debug|x86.ActiveCfg = Debug|x86
+		{60630121-223D-427C-8A22-1424EAD9E331}.Debug|x86.Build.0 = Debug|x86
+		{60630121-223D-427C-8A22-1424EAD9E331}.Release|x86.ActiveCfg = Release|x86
+		{60630121-223D-427C-8A22-1424EAD9E331}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
